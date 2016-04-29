@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deprovincialisu00hofmgoog_0006.png"; bbox 0 0 4300 5475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 615 796 759 1021">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 615 796 759 1021">
+     <span class='ocr_line' id='line_1_1' title="bbox 615 796 759 1021; baseline 0 -90"><span class='ocrx_word' id='word_1_1' title='bbox 615 796 759 1021; x_wconf 47' lang='grc' dir='ltr'><strong>ρο</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 795 880 856 1011">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 795 880 856 1011">
+     <span class='ocr_line' id='line_1_2' title="bbox 795 880 856 1011; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 795 880 856 1011; x_wconf 65' lang='grc'><strong>(1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 883 798 982 964">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 883 798 982 964">
+     <span class='ocr_line' id='line_1_3' title="bbox 883 798 982 964; baseline 0 -59"><span class='ocrx_word' id='word_1_3' title='bbox 883 798 982 964; x_wconf 56' lang='grc'><strong>[3</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2033 2741 2623 2896">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2033 2741 2623 2896">
+     <span class='ocr_line' id='line_1_4' title="bbox 2033 2741 2163 2896; baseline 0 -54"><span class='ocrx_word' id='word_1_4' title='bbox 2033 2741 2163 2896; x_wconf 74' lang='lat' dir='ltr'><strong>m:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 2176 2749 2623 2850; baseline 0.018 -10"><span class='ocrx_word' id='word_1_5' title='bbox 2176 2749 2301 2848; x_wconf 59' lang='lat' dir='ltr'><strong><em>w</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2356 2752 2623 2850; x_wconf 69' lang='grc'>51921</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
